@@ -6,7 +6,7 @@ Conheça minha trajetória, minhas habilidades e meus projetos em desenvolviment
 
 🔗 "Visualizar Portfólio Online" (https://sandra23u.github.io/Sandra/)
 
-## 💻 "Explorar meus repositórios no GitHub" (https://github.com/Sandra23U?tab=repositories)
+💻 "Explorar meus repositórios no GitHub" (https://github.com/Sandra23U?tab=repositories)
 
 ## 🛠️ Tecnologias utilizadas
 
