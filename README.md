@@ -12,7 +12,7 @@
 <img width="1536" height="941" alt="file_000000005f60820ea8d4b50dbfa69794" src="https://github.com/user-attachments/assets/054b8760-8781-4798-8dea-f1b41e9114a8" />
 
     
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
