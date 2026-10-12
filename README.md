@@ -1,6 +1,5 @@
 # Sandra
-
-<img width="1536" height="1024" alt="file_000000003b90820e8c316dbc77dfae7e" src="https://github.com/user-attachments/assets/0ee91230-9bc4-41dd-9752-e803aee7df4b" />
+<img width="1536" height="941" alt="file_000000003b90820e8c316dbc77dfae7e" src="https://github.com/user-attachments/assets/0ee91230-9bc4-41dd-9752-e803aee7df4b" />
 
 
 <!DOCTYPE html>
@@ -10,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <h1> Meu Portfólio de Projetos</h1>
 
-<img width="1672" height="941" alt="file_000000005f60820ea8d4b50dbfa69794" src="https://github.com/user-attachments/assets/054b8760-8781-4798-8dea-f1b41e9114a8" />
+<img width="1536" height="941" alt="file_000000005f60820ea8d4b50dbfa69794" src="https://github.com/user-attachments/assets/054b8760-8781-4798-8dea-f1b41e9114a8" />
 
     
 <link rel="stylesheet" href="styles.css">
