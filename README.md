@@ -8,7 +8,7 @@ Conheça minha trajetória, minhas habilidades e meus projetos em desenvolviment
     <div class="site">
 
 <p><a 
-href= "https://sandra23u.github.io/Sandra/Portfólio de Tecnologia/portfolio_sandra_arquivos/index.html"target="_blank">
+href= "https://sandra23u.github.io/Sandra/"target="_blank">
 Ver Meu Site</a></p>
 </div>
 
